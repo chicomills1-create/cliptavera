@@ -1,0 +1,18 @@
+# ClipTavera
+> ClipTavera (cliptavera.com) is a content-repurposing studio operated by Apex Grid Engineering PLLC. It turns long-form recordings a customer owns — podcasts, interviews, webinars, talks, lessons — into short-form clip drafts, hooks and captions that the customer reviews and approves before any use.
+
+## Key facts
+- Customer-owned media only: every source requires a completed rights attestation before processing; ClipTavera never scrapes or rips third-party content.
+- Deliverable is drafts for customer review. Nothing is published or posted automatically.
+- Every hook and quote traces to the source at a stated timecode; misattributed or distorted drafts are corrected as marked new versions.
+- Customer media is never used to train models and never used in marketing without specific written permission.
+- Test pricing (prelaunch, payments not yet open): Starter $49/mo, Studio $99/mo, Team $199/mo.
+- Contact: info@cliptavera.com
+
+## Founder
+Jeremy "Chico" Mills — Founder & CEO. Serial entrepreneur · USAF veteran. Jeremy Mills is the founder and owner of 10+ companies, led by Apex Grid Engineering. ClipTavera is an Apex Grid Engineering PLLC company.
+
+## Pages
+- https://cliptavera.com/ — homepage, platform, how it works, pricing, FAQ
+- https://cliptavera.com/demo.html — interactive sample workspace (fictional data only)
+- https://cliptavera.com/legal.html — Terms, Privacy & Refunds
