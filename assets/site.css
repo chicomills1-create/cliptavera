@@ -54,3 +54,14 @@
 .demo-note{padding:6px 3px 0;color:var(--sub);font-size:11px}
 @media(max-width:700px){.hero-art{min-height:auto;padding:30px 20px 46px}.floating-note{display:none}.demo-strip{grid-template-columns:1fr;padding:65px 0;gap:35px}}
 .ops-note{color:var(--sub);font-size:13px;margin-top:8px}
+
+/* Contrast cure (2026-11-14, PageSpeed-named nodes; ratios computed WCAG): text-accent deepens for text use only — brand --hot backgrounds/dots unchanged */
+body.creator .section-title i{color:#c8401b}
+.summary-icon{color:#c8401b}
+.sample-tag{border-color:#c8401b;color:#c8401b}
+.grant-head .score{color:#c8401b}
+.row-demo>strong{color:#c8401b}
+.faq summary:after{color:#c8401b}
+.band .step .number{color:#ffffff8c}
+.price-card.popular .tag{color:#fff;border-color:#ffffff55}
+.last-cta .kicker,.last-cta p{color:#5d564e}
