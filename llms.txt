@@ -13,6 +13,6 @@
 Jeremy "Chico" Mills — Founder & CEO. Serial entrepreneur · USAF veteran. Jeremy Mills is the founder and owner of 10+ companies, led by Apex Grid Engineering. ClipTavera is an Apex Grid Engineering PLLC company.
 
 ## Pages
-- https://cliptavera.com/ — homepage, platform, how it works, pricing, FAQ
-- https://cliptavera.com/demo.html — interactive sample workspace (fictional data only)
-- https://cliptavera.com/legal.html — Terms, Privacy & Refunds
+- [Homepage — platform, how it works, pricing, FAQ](https://cliptavera.com/)
+- [Interactive demo — sample workspace, fictional data only](https://cliptavera.com/demo.html)
+- [Terms, Privacy & Refunds](https://cliptavera.com/legal.html)
